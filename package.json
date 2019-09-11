@@ -10,6 +10,6 @@
   "author": "x41",
   "license": "ISC",
   "dependencies": {
-    "esprima": "^4.0.1"
+    "recast": "^0.18.2"
   }
 }
