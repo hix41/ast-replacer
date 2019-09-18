@@ -4,8 +4,7 @@
   "description": "for learning ast",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./scripts/start.js"
   },
   "author": "x41",
   "license": "ISC",
